@@ -1,0 +1,11 @@
+age,sma_type,smn2_copies,motor_score,severity
+1,Type I,2,10,severe
+2,Type I,2,12,severe
+5,Type II,3,35,moderate
+7,Type II,3,40,moderate
+10,Type III,4,65,mild
+12,Type III,4,70,mild
+4,Type II,3,38,moderate
+9,Type III,4,68,mild
+3,Type I,2,15,severe
+6,Type II,3,42,moderate
