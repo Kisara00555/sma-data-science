@@ -51,6 +51,21 @@ Features include:
 
 ---
 
+## 📊 Key Insights
+
+- SMA severity is strongly associated with SMN2 copy number and motor function score  
+- Higher SMN2 copies generally indicate milder disease  
+- Age showed high importance in the model due to dataset limitations  
+- Strong relationships between features may have influenced model performance
+
+---
+
+## 📸 Sample Visualizations
+
+![Feature Importance](results/figures/feature_importance.png)
+
+---
+
 ## ⚠️ Limitations
 - Small dataset size  
 - Synthetic (not real patient data)  
@@ -74,10 +89,9 @@ Features include:
 ---
 
 ## 📁 Project Structure
-- data/
-- notebooks/
-- results/
-
+ - data/
+ - notebooks/
+ - results/
 
 ---
 
